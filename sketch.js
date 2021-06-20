@@ -51,7 +51,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background(234, 16, 16);
   
   drawSprites();
 
